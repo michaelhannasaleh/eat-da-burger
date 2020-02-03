@@ -1,29 +1,29 @@
 {
-    "name": "burger",
-    "version": "1.0.0",
-    "description": "applying MySQL, Node, Express, Handlebars and a homemade ORM ",
-    "main": "server.js",
-    "scripts": {
-      "test": "node server.js"
-    },
-    "repository": {
-      "type": "",
-      "url": ""
-    },
-    "author": "",
-    "license": "",
-    "bugs": {
-      "url": ""
-    },
-    "homepage": "",
-    "dependencies": {
-      "body-parser": "^1.16.0",
-      "express": "^4.14.0",
-      "express-handlebars": "^3.0.0",
-      "method-override": "^2.3.7",
-      "mysql": "^2.12.0"
-    },
-    "jshintConfig": {
-      "esversion": "6"
-    }
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "applying MySQL, Node, Express, Handlebars and a homemade ORM ",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.7",
+    "mysql": "^2.12.0"
+  },
+  "jshintConfig": {
+    "esversion": "6"
   }
+}
